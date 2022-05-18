@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(rgb(38, 207, 151),rgb(156, 207, 38));
+}
+
+
+#startbtn{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+div{
+    background: palegreen;
+}
+
+footer{
+    margin-top: 128px;
+    background-color: antiquewhite;
+    height: 22px;
+}
+
+img{
+    margin-top: 100px;
+}
